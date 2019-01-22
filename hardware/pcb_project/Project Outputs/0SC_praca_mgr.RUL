@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: D:\PCBLAB\Marcin_Krajnik\OSCYLOSKOP_praca_mgr_MK\0SC_praca_mgr\0SC_praca_mgr.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=15.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=100.00
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=20.00

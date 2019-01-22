@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [0SC_praca_mgr.PrjPcb]
+   Generated File[0SC_praca_mgr.GTL]
+   Generated File[0SC_praca_mgr.GBL]
+   Generated File[0SC_praca_mgr.GPB]
+   Generated File[0SC_praca_mgr.GPT]
+   Generated File[0SC_praca_mgr.GTO]
+   Generated File[0SC_praca_mgr.GTP]
+   Generated File[0SC_praca_mgr.GTS]
+   Generated File[0SC_praca_mgr.GBS]
+   Generated File[0SC_praca_mgr.GKO]
+   Generated File[0SC_praca_mgr.GM13]
+   Generated File[0SC_praca_mgr.GM15]
+   Generated File[0SC_praca_mgr.RUL]
+   Generated File[0SC_praca_mgr.EXTREP]
+   Generated File[0SC_praca_mgr.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 22:00:34 On 2018-05-29

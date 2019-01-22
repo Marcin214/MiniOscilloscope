@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "OSC_MK_uc_program", "USB4\OSC_MK_uc_program.cproj", "{081C0C3E-25CA-4A22-82BD-5BC3D8192C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081C0C3E-25CA-4A22-82BD-5BC3D8192C8C}.Debug|AVR.ActiveCfg = Debug|AVR
+		{081C0C3E-25CA-4A22-82BD-5BC3D8192C8C}.Debug|AVR.Build.0 = Debug|AVR
+		{081C0C3E-25CA-4A22-82BD-5BC3D8192C8C}.Release|AVR.ActiveCfg = Release|AVR
+		{081C0C3E-25CA-4A22-82BD-5BC3D8192C8C}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

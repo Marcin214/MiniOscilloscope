@@ -1,0 +1,71 @@
+Protel Design System Design Rule Check
+PCB File : D:\PCBLAB\Marcin_Krajnik\OSCYLOSKOP_praca_mgr_MK\0SC_praca_mgr\0SC_praca_mgr.PcbDoc
+Date     : 2018-05-29
+Time     : 21:56:25
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('Bottom Layer-GND')),(InNet('VCC_3V3'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('GND_L02_P014')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: Yes), (Allow shelved: Yes)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Room 0SC_praca_mgr (Bounding Region = (2650.937mil, 5536.787mil, 5090.937mil, 7084.787mil) (InComponentClass('0SC_praca_mgr'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=100mil) (InNamedPolygon('Bottom Layer-No Net')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('Bottom Layer-GND')),(InNet('CH2'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('Bottom Layer-GND')),(InNet('TEST_X'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNamedPolygon('Bottom Layer-GND')),(InNet('TRIG'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01
