@@ -1,12 +1,18 @@
 # MiniOscilloscope
 
-Design and implementation of a miniature oscilloscope module with a usb interface. The main use of the module is monitoring the signals SPI and I2C interfaces.
+Design and implementation of a miniature oscilloscope module with a usb interface. The main use of the module is monitoring the signals SPI and I2C interfaces. The repository is a patchwork of files that makes entire project.
+
+Project of a MiniOscilloscope includes: 
+  + PCB design and assembly, 
+  + program for XMEAGA 32A4-AU microcontroller written in C,
+  + GUI run on PC written in Python,
+  + system tests.
 
 ## Table of Contents
 
 1. [Requirements](#requirements) 
 1. [System architecture](#system-architecture)
-1. [MiniOscilloscope module](#miniOscilloscope-module)
+1. [MiniOscilloscope module](#minioscilloscope-module)
 	+ [Schematic](#schematic)
 	+ [PCB design](#pcb-design)
 	+ [Microcontroller program](#microcontroller-program)
@@ -47,9 +53,14 @@ Other:
   <img src="images/architecture.png" width="500">
 </p>
 
+<p align="center">
+  <img src="images/bom.png" width="500">
+</p>
+
 **[Back to top](#table-of-contents)**
 
 ## MiniOscilloscope module
+
 ### Schematic
 
 <p align="center">
@@ -84,7 +95,13 @@ The PCB was designed in accordance with the assumptions set in Requirements para
 **[Back to top](#table-of-contents)**
 
 ## Tests
+
 ### Functional tests
+
+<p align="center">
+  <img src="images/functional.png" width="500">
+</p>
+
 ### Comparison USB and UART
 
 <p align="center">
