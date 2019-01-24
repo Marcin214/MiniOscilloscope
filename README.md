@@ -14,6 +14,7 @@ Project of a MiniOscilloscope includes:
 1. [System architecture](#system-architecture)
 1. [MiniOscilloscope module](#minioscilloscope-module)
 	+ [Schematic](#schematic)
+	+ [BOM](#bom)
 	+ [PCB design](#pcb-design)
 	+ [Microcontroller program](#microcontroller-program)
 1. [User application](#user-application)
@@ -53,10 +54,6 @@ Other:
   <img src="images/architecture.png" width="500">
 </p>
 
-<p align="center">
-  <img src="images/bom.png" width="500">
-</p>
-
 **[Back to top](#table-of-contents)**
 
 ## MiniOscilloscope module
@@ -65,6 +62,13 @@ Other:
 
 <p align="center">
   <img src="images/schematic.png" width="500">
+</p>
+
+
+### BOM
+
+<p align="center">
+  <img src="images/bom.png" width="700">
 </p>
 
 ### PCB design
@@ -99,7 +103,7 @@ The PCB was designed in accordance with the assumptions set in Requirements para
 ### Functional tests
 
 <p align="center">
-  <img src="images/functional.png" width="500">
+  <img src="images/functional.png" width="700">
 </p>
 
 ### Comparison USB and UART
